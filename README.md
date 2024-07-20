@@ -1,23 +1,26 @@
-## Hi there 👋
+## Hi  ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Saifulnasri Jehamah 
+<br>
 
-
+Front-End Developer   <img src="https://komarev.com/ghpvc/?username=Saifulnasri&style=flat-square&color=blue"  align="right">
+------------------
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="300" height="150"/>
+  
 
-  <div id="badges">
-    <a href="https://web.facebook.com/SUKANSART5376">
-  <img src="https://img.shields.io/badge/facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook Badge"/>
-    <a/>
-        <a href="https://www.instagram.com/sqiiful_/">
-<img src="https://img.shields.io/badge/Instagram-%23E1306C.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-<a/>
-  <br>
-  <img src="https://komarev.com/ghpvc/?username=Saifulnasri&style=flat-square&color=blue" alt=""/>
-  </div>
+* 🖥️ I’m a student passionate about web development with skills in HTML, CSS, and JavaScript. I have hands-on experience with React and Bootstrap and am eager to apply my knowledge and learn new technologies through cooperative education as a Front-End Developer.
+---
+# 🧑🏻‍💻 Education
+**Princess of Naradhiwas University**
+ <br>
+*Faculty of Engineering*
+<br>
+*Field of Study: Computer Engineering*
+<br>
+**GPA:** 3.30
+
 </div>
 
----
-
+### Skills
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -35,17 +38,15 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
----
-
-### :fire: My Stats :
-
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
+### Socials
+<p align="left">
+  <a href="https://www.github.com/Saifulnasri" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
+  </a>&nbsp;
+  <a href="https://web.facebook.com/SUKANSART5376" target="_blank" rel="noreferrer">
+   <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" width="32" height="32" />
+  </a>&nbsp;
+  <a href="https://www.instagram.com/sqiiful_/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="32" height="32" />
+  </a>
+</p>
